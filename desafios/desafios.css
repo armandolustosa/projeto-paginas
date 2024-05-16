@@ -8,7 +8,7 @@
 
 body {
   font-family: "Source Sans 3", sans-serif;
-  background-image: url("../Imagens/fundo-alvo-flecha.png"),
+  background-image: url("imagens/fundo-alvo-flecha.png"),
     radial-gradient(circle at 50%, #4682b4, #002838);
   width: 100vw;
   height: 100vh;
